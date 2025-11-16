@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/HACKATHON_ARMETA/valid/ALL_DATA_COMBINED/train
+val: /content/drive/MyDrive/HACKATHON_ARMETA/valid/ALL_DATA_COMBINED/valid
+
+names:
+  0: signature
+  1: stamp
+  2: qrcode
